@@ -2,10 +2,1693 @@
 branches: {
   }
 fileChange:
-  /.gitignore:
-    newFile: !uuid '5d947ca8879f8a9072fe485c566204e3c2929e80'
+  /DataInfoMangement:
+    newFile: !uuid 'eb60a51a60c59ff09b45ce5dafe69b310f6c02d0'
     oldFile: null
-gitCommitId: !uuid 'a777c6c6a4b5173b077cd7ac464c2112340517fe'
+  /DataInfoMangement/.vs:
+    newFile: !uuid 'a93eb98b38d55952e419934e4a06413cde8d444e'
+    oldFile: null
+  /DataInfoMangement/.vs/DataInfoMangement:
+    newFile: !uuid '96fcdd965d7ad46d27a921072f86c1cb8d20e649'
+    oldFile: null
+  /DataInfoMangement/.vs/DataInfoMangement/v16:
+    newFile: !uuid 'd9ea69b49b8e6c6716fc986026b3598ecc43de98'
+    oldFile: null
+  /DataInfoMangement/.vs/DataInfoMangement/v16/.suo:
+    newFile: !uuid '4186b88b12a14397f85843fb5b449c2bd1d27d2b'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement:
+    newFile: !uuid '605e3898e2747196867792e8b27322bafdd93df2'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement.sln:
+    newFile: !uuid '09ed671b234f808234b0614e308fe16fee164c83'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/App.config:
+    newFile: !uuid '362b5ef78278ab4dc1a6c5256af4a7fa263f8641'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/ConnectDBForm.Designer.cs:
+    newFile: !uuid '9489feffed729822cac8fe4ea4922b9b058fd16f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/ConnectDBForm.cs:
+    newFile: !uuid 'a7c6c395a67852595fff249ecc42ee92593767c3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/ConnectDBForm.resx:
+    newFile: !uuid 'ceb693eb32818f1682a7273f3f917902b82cc583'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataInfoMangement.csproj:
+    newFile: !uuid '6be7691f41c703ee5dd0380844d99069b1e619c8'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableAddForm.Designer.cs:
+    newFile: !uuid '1fca00c5433c5299c699bf8ba1a919cacab8f6fe'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableAddForm.cs:
+    newFile: !uuid 'bf373dff0058d57d3f7b4bfa9dffac108214a2d3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableAddForm.resx:
+    newFile: !uuid '29dcb1b3a353ba227f65e11fbe3d6f0766e84292'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableModifyForm.Designer.cs:
+    newFile: !uuid '03f30e7ae4eaf8334c19f204a08d0298234975e3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableModifyForm.cs:
+    newFile: !uuid '28fa2b09f88497ba8ff51a01911e972c4fa75b59'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/DataTableModifyForm.resx:
+    newFile: !uuid 'ceb693eb32818f1682a7273f3f917902b82cc583'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/HelpForm.Designer.cs:
+    newFile: !uuid '67e67286902408fd48de2d90e83a4fb36f70f6cd'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/HelpForm.cs:
+    newFile: !uuid '3802bec7c788fc9acaa0132ea21d70a83bc5f5ed'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/HelpForm.resx:
+    newFile: !uuid 'ceb693eb32818f1682a7273f3f917902b82cc583'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/MainForm.Designer.cs:
+    newFile: !uuid '68bd1ed3c5ea015d1b2f42eb10ed7326244eb4d5'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/MainForm.cs:
+    newFile: !uuid 'd994eaa21c3233d89f6c3370fee22d9218b33762'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/MainForm.resx:
+    newFile: !uuid 'a79dbcf1009704c0cb675bbe21cd42e142d9293a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Program.cs:
+    newFile: !uuid '2b6fc64f355c2211373280ab229a4b1680bd9b24'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties:
+    newFile: !uuid 'c2d6483fcb9dfe7e1326c8561111d67c1b30efa7'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties/AssemblyInfo.cs:
+    newFile: !uuid '41cfad9ce8b4b98309e3c64fe9ca1c0410aecd0c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties/Resources.Designer.cs:
+    newFile: !uuid 'b5068fc7d6f474407463f3c1341cf01954ee9445'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties/Resources.resx:
+    newFile: !uuid 'c7424f9c3a4e43bfc7ccfbe1f35b8bf71473d4f1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties/Settings.Designer.cs:
+    newFile: !uuid 'f04471cc655f96f4d6f6bba37249eb4beb4d536b'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Properties/Settings.settings:
+    newFile: !uuid 'abf36c5d3d7a33baabb780c9dffef3d804ceb62f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources:
+    newFile: !uuid 'dccaf022d783579f7b27981ab644ab4ce5107b3e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Clean.png:
+    newFile: !uuid 'dade1f6ab6d1ae5f7d1c0e157b06ad5f466c2695'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/ConsoleToo.ico:
+    newFile: !uuid '4238e81ffbf396829bb934b62ed82e17319d2724'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Crazy.ico:
+    newFile: !uuid '56444d5db85c7825ecf1ea78b792d57718c9c118'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Edit.ico:
+    newFile: !uuid '30fe54dcc6070089c081d90642232c5c3f10e268'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Editor.ico:
+    newFile: !uuid 'f58b11a8711a00a32d6e4b7207edbe5401ff1001'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Help.png:
+    newFile: !uuid '4e793813e502fd0bceb535bbd06d2d9bd576a500'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Software.ico:
+    newFile: !uuid '283fe4e087bfd21e572c8487cd2aa953c126f721'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/Stop.png:
+    newFile: !uuid '92ceba4231a8ad1c693e6b5545b2e836e7adc88d'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/SysSettings.png:
+    newFile: !uuid '64cc1576c85e91dc4d646af975f98447ffeeef87'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/Resources/chongda.ico:
+    newFile: !uuid 'e90dbad4b82e3f6cf9a23e8c67cbf71d884488c1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin:
+    newFile: !uuid '05a346ef74bc4c938a354e4d521a825be813ca50'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug:
+    newFile: !uuid '486c21def2aa8b38bd9de00a6e2303b1d96da063'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/DataInfoMangement.exe:
+    newFile: !uuid '3fcf1927fb4576c1695f686daa196c9cbbf4ab65'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/DataInfoMangement.exe.config:
+    newFile: !uuid 'be4d8e79fa1365d86c9d44fcaa86d84a6d11cab0'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/DataInfoMangement.pdb:
+    newFile: !uuid '6804882412b9f9c82b266def8f8af6823bd142a1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/EntityFramework.SqlServer.dll:
+    newFile: !uuid '063825a4a9d19c27c3de515aea86213bcdfa1350'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/EntityFramework.SqlServer.xml:
+    newFile: !uuid '4dd663b2faafebc382f85b24798c9959d77bc81d'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/EntityFramework.dll:
+    newFile: !uuid 'befca817a35a0bd1a0a5f5979a1f8a46724d5246'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/EntityFramework.xml:
+    newFile: !uuid 'c8dc4b262f03f588bcff46c3cdcde57d4d811a44'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/SQLitePCLRaw.core.dll:
+    newFile: !uuid 'd995f2741c3d0c50791309348c1ce94b1185b9c6'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Buffers.dll:
+    newFile: !uuid 'b6d9c7782d275b83f4d0883f9bfb2d65fc5c9e9f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Buffers.xml:
+    newFile: !uuid '8b1b5cf90e71a0890b08ee7539831da784c59fcd'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Data.SQLite.EF6.dll:
+    newFile: !uuid 'eb4fdd917edfad835ae0f6694c79d445e5513d3a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Data.SQLite.Linq.dll:
+    newFile: !uuid '7969a3f3dd377018ee040158fca06855519fe822'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Data.SQLite.dll:
+    newFile: !uuid 'fd929138d9e8081416a5a76153905df101ada76e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Data.SQLite.xml:
+    newFile: !uuid '19bfd33bf24c045e72c88db4644c924c6f4aa03c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Memory.dll:
+    newFile: !uuid 'bdfc501e9647719549793297acb072d33067d4e5'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Memory.xml:
+    newFile: !uuid 'de9af8989be4d61aa70394413ed2710a0cc302d9'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Numerics.Vectors.dll:
+    newFile: !uuid 'ce46d5be85cdee1a3c0ef5bc22c8e1772d0d0d98'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll:
+    newFile: !uuid '3156239266db9cceede249731f00c3822e479a1f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml:
+    newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64:
+    newFile: !uuid '6c2e1bdd0a55ccd0084b60118a7f4a7a141c00f1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug:
+    newFile: !uuid 'b94fa707161cd21bfe46953eb9834cbf84f0fc50'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/BouncyCastle.Crypto.dll:
+    newFile: !uuid '05036dd141c0afb77627605f50e998c393a8cba8'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/DataInfoMangement.exe:
+    newFile: !uuid 'd3bee739d08a031f6dcf0b62e52596b1d9e88a7a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/DataInfoMangement.exe.config:
+    newFile: !uuid '362b5ef78278ab4dc1a6c5256af4a7fa263f8641'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/DataInfoMangement.pdb:
+    newFile: !uuid 'e071cd8c5f3725b59a6faedd44e4bed1bca6cd6f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/EntityFramework.SqlServer.dll:
+    newFile: !uuid '063825a4a9d19c27c3de515aea86213bcdfa1350'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/EntityFramework.SqlServer.xml:
+    newFile: !uuid '4dd663b2faafebc382f85b24798c9959d77bc81d'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/EntityFramework.dll:
+    newFile: !uuid 'befca817a35a0bd1a0a5f5979a1f8a46724d5246'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/EntityFramework.xml:
+    newFile: !uuid 'c8dc4b262f03f588bcff46c3cdcde57d4d811a44'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Google.Protobuf.dll:
+    newFile: !uuid '77b93c781dadd3867ff826331bc5abadcd461def'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Google.Protobuf.pdb:
+    newFile: !uuid 'ffc1b89a7b580fea9837893c9683375db7074e29'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Google.Protobuf.xml:
+    newFile: !uuid '725a319646969c39b4bf8d50cd0eb17913774169'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Compression.LZ4.Streams.dll:
+    newFile: !uuid '4c68abb6b8c235f26d952b9fca3a572ecd882ccf'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Compression.LZ4.Streams.xml:
+    newFile: !uuid '4a48ae1fe6736910a9993c446cb696ee92d0cbfc'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Compression.LZ4.dll:
+    newFile: !uuid 'ea7a3253314f43040ad21b94591b726586cd1f1c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Compression.LZ4.xml:
+    newFile: !uuid '5e8e85bf424be66ea06d8d44100a5b0329736494'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Hash.xxHash.dll:
+    newFile: !uuid 'b4cb8d940ec1237f00844a6365238f76c7ab95a4'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/K4os.Hash.xxHash.xml:
+    newFile: !uuid '0bcd49ca00c9fed1505ebd8e7f1feb1840240e0e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Microsoft.CSharp.dll:
+    newFile: !uuid '54c96cf375ff0f95329bc04fb861e8cb6867e4ca'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/MySql.Data.dll:
+    newFile: !uuid '10eb79b9468c3c8ae1a929b793f5c36517cc192e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/MySql.Data.xml:
+    newFile: !uuid '6bbc17b7281753f4b5425fed7c3474f9e8f08955'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/SQLitePCLRaw.core.dll:
+    newFile: !uuid 'd995f2741c3d0c50791309348c1ce94b1185b9c6'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Buffers.dll:
+    newFile: !uuid 'f2d83c51416e90dbc31154545b16df3b3f7a7909'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.ComponentModel.DataAnnotations.dll:
+    newFile: !uuid 'f0fd852f8aea547fa47c57b94f62f478bc3bbd0b'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.ComponentModel.dll:
+    newFile: !uuid '10da522573a81926ab38aaa9f887ae0d1b572aaf'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Configuration.Install.dll:
+    newFile: !uuid '22d712907282cb6901131d2061409f6dfa1e88ed'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Configuration.dll:
+    newFile: !uuid '44fcf03c8fd834a0bad9e118906589e407621774'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.DataSetExtensions.dll:
+    newFile: !uuid 'f466f3f44c6179ba874bd57763f3cd0509d4dbf9'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.SQLite.EF6.dll:
+    newFile: !uuid 'eb4fdd917edfad835ae0f6694c79d445e5513d3a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.SQLite.Linq.dll:
+    newFile: !uuid '7969a3f3dd377018ee040158fca06855519fe822'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.SQLite.dll:
+    newFile: !uuid 'fd929138d9e8081416a5a76153905df101ada76e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.SQLite.xml:
+    newFile: !uuid '19bfd33bf24c045e72c88db4644c924c6f4aa03c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Data.dll:
+    newFile: !uuid '5062a83fde8aa9e8280ee46ae9e67062549519fa'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Deployment.dll:
+    newFile: !uuid '6cc8eeab7b94048978d76a0ea3d4d555b85eef15'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Drawing.dll:
+    newFile: !uuid '55964fc79fa224536e661379dc506ff032d0272c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Management.dll:
+    newFile: !uuid '78a12d4d4577d5ae0c653890155b2978b44b53c2'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Memory.dll:
+    newFile: !uuid 'bdfc501e9647719549793297acb072d33067d4e5'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Memory.xml:
+    newFile: !uuid 'de9af8989be4d61aa70394413ed2710a0cc302d9'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Net.Http.dll:
+    newFile: !uuid 'e665456162aadaac366c1353e56ecb5484c71a52'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Numerics.Vectors.dll:
+    newFile: !uuid 'ce46d5be85cdee1a3c0ef5bc22c8e1772d0d0d98'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Numerics.dll:
+    newFile: !uuid 'ad09fc5ffb1e5df699995f939972b7ccec147828'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Runtime.CompilerServices.Unsafe.dll:
+    newFile: !uuid '3156239266db9cceede249731f00c3822e479a1f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Runtime.CompilerServices.Unsafe.xml:
+    newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Transactions.dll:
+    newFile: !uuid '8db6e05649cf3fbd251b874b2e8a3e3f35bd7afe'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Windows.Forms.DataVisualization.dll:
+    newFile: !uuid '672713ccfc9b1839f7d8439da1230c34abd02c9e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Windows.Forms.dll:
+    newFile: !uuid 'bd228e5a3b6ff4c5e4ceefe5394229581e1b6c1a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Xml.Linq.dll:
+    newFile: !uuid 'ca607868d6ca5f8b50ca3f5b211b2bc0ea9540b4'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.Xml.dll:
+    newFile: !uuid '1ac0ee401094ac6028d0ec6b7216d4f2b97137bc'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/System.dll:
+    newFile: !uuid 'd8f384084cdb9f726ec19e362479cf6e97acbe9f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/bin/x64/Debug/Zstandard.Net.dll:
+    newFile: !uuid '83934d141fc5760b75715bab49aaded7a80d4aa3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/db:
+    newFile: !uuid '6d9647c2afe530a71cfc31a6aec0e0a02a81893a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/db/123.db:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/db/NewTest.db:
+    newFile: !uuid 'a6646150cd8b154dadaefa1cf2dc69c5a64affd3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj:
+    newFile: !uuid '90d33d97a3a251f3b0a6a81dea601ed21a9069bd'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug:
+    newFile: !uuid 'df9a653fb9cfb4120ce8eb508f3159dacd5bd592'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs:
+    newFile: !uuid '057ed7f86d02aa789c602c4a59acad6df0938704'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.MainForm.resources:
+    newFile: !uuid '07614ca4bc026f41342bbca1bb3d482a519813ab'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.Properties.Resources.resources:
+    newFile: !uuid '6c05a9776bd7cbae976fdcec7e3a254e93018279'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.csproj.CopyComplete:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.csproj.CoreCompileInputs.cache:
+    newFile: !uuid '2f94a1f82f0dbee3fd134d7a47195e447841e218'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.csproj.FileListAbsolute.txt:
+    newFile: !uuid 'bb024d926aeade2feba5ec8e21f311b382209fc4'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.csproj.GenerateResource.cache:
+    newFile: !uuid 'a7938a37a5e5c86374e5a8594dae0c6be43fbb72'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.csprojAssemblyReference.cache:
+    newFile: !uuid 'fcfc4ff7f76d05a8155ce3c5e5bc0222a13a0af1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.exe:
+    newFile: !uuid '3fcf1927fb4576c1695f686daa196c9cbbf4ab65'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DataInfoMangement.pdb:
+    newFile: !uuid '6804882412b9f9c82b266def8f8af6823bd142a1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DesignTimeResolveAssemblyReferences.cache:
+    newFile: !uuid 'e74e8158dd2d8e92134ef5c5918e556b8028445c'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache:
+    newFile: !uuid '6d5fe4e29dff77f352e1a9c0625318f9de635153'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64:
+    newFile: !uuid '1e0ad1be8a6312de389ca8336c1cebc022108f85'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug:
+    newFile: !uuid 'da5645a0f22730ce82a3a5268d789637c72c14e6'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs:
+    newFile: !uuid '057ed7f86d02aa789c602c4a59acad6df0938704'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.ConnectDBForm.resources:
+    newFile: !uuid 'ba6a7891419d3fae134dd3b8c8700b9918a73646'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.DataTableAddForm.resources:
+    newFile: !uuid '6c05a9776bd7cbae976fdcec7e3a254e93018279'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.DataTableModifyForm.resources:
+    newFile: !uuid 'ba6a7891419d3fae134dd3b8c8700b9918a73646'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.HelpForm.resources:
+    newFile: !uuid 'ba6a7891419d3fae134dd3b8c8700b9918a73646'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.MainForm.resources:
+    newFile: !uuid 'ba6a7891419d3fae134dd3b8c8700b9918a73646'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.Properties.Resources.resources:
+    newFile: !uuid '4be9f5d12f928bb732198cd244000bee658f4149'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.csproj.CopyComplete:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.csproj.CoreCompileInputs.cache:
+    newFile: !uuid '4d4e807947128a14c29571058eb0f0c748d51e5e'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.csproj.FileListAbsolute.txt:
+    newFile: !uuid '3c736d2dc397af871ca4013e04481013e15a8a65'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.csproj.GenerateResource.cache:
+    newFile: !uuid 'f5752154061f0db7eb6da5a26a930615213489d9'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.csprojAssemblyReference.cache:
+    newFile: !uuid '3084d319d329debd0ba3c6b163f6ba0ecca1c67f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.exe:
+    newFile: !uuid 'd3bee739d08a031f6dcf0b62e52596b1d9e88a7a'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.g.resources:
+    newFile: !uuid '049e8711a1ef9e3aedde947981fcf2f50e1d3cb1'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DataInfoMangement.pdb:
+    newFile: !uuid 'e071cd8c5f3725b59a6faedd44e4bed1bca6cd6f'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DesignTimeResolveAssemblyReferences.cache:
+    newFile: !uuid 'a6a6eb0fecf7975d7d5a140db736fc3c87e0a0de'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache:
+    newFile: !uuid '0065371331013031f34b72c26a27fa584f8163ee'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/TempPE:
+    newFile: !uuid '5e3232ffd2179eb7d247fd992c508c9407180ee3'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/obj/x64/Debug/TempPE/Properties.Resources.Designer.cs.dll:
+    newFile: !uuid '0cf927bc2a516c4939c0179ff0ce9da92f4a5083'
+    oldFile: null
+  /DataInfoMangement/DataInfoMangement/packages.config:
+    newFile: !uuid '9e47926663a8d1cedfaddb49f38c945232ec2b5e'
+    oldFile: null
+  /DataInfoMangement/packages:
+    newFile: !uuid '99a990fa2bafe0eca4452b07580157c91d434a44'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5:
+    newFile: !uuid 'd7138a039106f70e12a291852eabdbede836f655'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5/.signature.p7s:
+    newFile: !uuid '378adca9d0434537f5325e61e2a88fa802f7de3c'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5/BouncyCastle.1.8.5.nupkg:
+    newFile: !uuid 'f6d7c2ab50665e69431f15212d214900eb8d1ebe'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5/README.md:
+    newFile: !uuid '270d9cca5041bca6d67723a8c281aa8f4fb659e4'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5/lib:
+    newFile: !uuid '23e43551bf8cd86fe85d75d23e96dcf4c980b01c'
+    oldFile: null
+  /DataInfoMangement/packages/BouncyCastle.1.8.5/lib/BouncyCastle.Crypto.dll:
+    newFile: !uuid '05036dd141c0afb77627605f50e998c393a8cba8'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0:
+    newFile: !uuid 'de73eb03b122a0cd79c0ec72920d87700f13cb61'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/.signature.p7s:
+    newFile: !uuid '0c4a6e2b89081502070bf01a266ba0494f449a64'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/EntityFramework.6.3.0.nupkg:
+    newFile: !uuid 'ca648f05411599e3ee455c18609e3aa7e506799f'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/build:
+    newFile: !uuid '83b3026ba99948d2da6fe18b90141fc31455aa60'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/build/EntityFramework.props:
+    newFile: !uuid 'fc32bd1d07e776819c00abc01719935c86929f30'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/build/EntityFramework.targets:
+    newFile: !uuid 'efec64d24f93d8f461e20cb0e287a77d243d6625'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/build/Microsoft.Data.Entity.Build.Tasks.dll:
+    newFile: !uuid 'cc5add1d4acffd8ac75fc038fdc388ecb5e34cc2'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/buildTransitive:
+    newFile: !uuid '19e68382dd2ffd9c0e56bb0ea55433345cfc8a23'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/buildTransitive/EntityFramework.props:
+    newFile: !uuid 'bf6001f9237f3a2924c2eb2c4b8927f2485395e0'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/buildTransitive/EntityFramework.targets:
+    newFile: !uuid '4df76b84c4c4ad0caefe2cca44b55def2e607b17'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content:
+    newFile: !uuid '9740a5a681d35aa4d91b4e44d1902a4ef2232169'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content/net40:
+    newFile: !uuid '68fa54b4dabf9fb727623f609ede85405f7c8ebe'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content/net40/App.config.install.xdt:
+    newFile: !uuid '9dcfc55623fdbf6c847b0b5f403fca8b98cd7f36'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content/net40/App.config.transform:
+    newFile: !uuid '7ca738f7fd12bd51f388de1fcfecac66c69d1607'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content/net40/Web.config.install.xdt:
+    newFile: !uuid '9dcfc55623fdbf6c847b0b5f403fca8b98cd7f36'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/content/net40/Web.config.transform:
+    newFile: !uuid '7ca738f7fd12bd51f388de1fcfecac66c69d1607'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib:
+    newFile: !uuid '1d66e88e72e77afb250ac17ffe34137fbfcd579a'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net40:
+    newFile: !uuid '0cc02873a2e0e8f555005e6f06c21ef85c4e290f'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net40/EntityFramework.SqlServer.dll:
+    newFile: !uuid '669386f7d26357b322ab1a07f893950abe7df260'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net40/EntityFramework.SqlServer.xml:
+    newFile: !uuid '19055dd3a13fe963e6d67c3ce7f7257d1b3e47c1'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net40/EntityFramework.dll:
+    newFile: !uuid '89b348c643cbac783def8652ce153a346001f62d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net40/EntityFramework.xml:
+    newFile: !uuid 'ffe1b6a5ae4b3e97c7aa30f3d578587be4272e3c'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net45:
+    newFile: !uuid '56ed13125a3ad4fbe3748d340085e30b6930bd25'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net45/EntityFramework.SqlServer.dll:
+    newFile: !uuid '063825a4a9d19c27c3de515aea86213bcdfa1350'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net45/EntityFramework.SqlServer.xml:
+    newFile: !uuid '4dd663b2faafebc382f85b24798c9959d77bc81d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net45/EntityFramework.dll:
+    newFile: !uuid 'befca817a35a0bd1a0a5f5979a1f8a46724d5246'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/net45/EntityFramework.xml:
+    newFile: !uuid 'c8dc4b262f03f588bcff46c3cdcde57d4d811a44'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/netstandard2.1:
+    newFile: !uuid 'aa706a2956aedd711d98012548b1db8dbc4ea970'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/netstandard2.1/EntityFramework.SqlServer.dll:
+    newFile: !uuid '26db7ea2a9e378a15c65c29bab5ba2462200c9da'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/netstandard2.1/EntityFramework.SqlServer.xml:
+    newFile: !uuid '4dd663b2faafebc382f85b24798c9959d77bc81d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/netstandard2.1/EntityFramework.dll:
+    newFile: !uuid '04dca9e77d0b031264c7fcd6c71bc025653774e9'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/lib/netstandard2.1/EntityFramework.xml:
+    newFile: !uuid '2dd035682617f16d5c46d514e548b858f1e30125'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools:
+    newFile: !uuid '7fa4d503fa632d42db9bf8c4d778a59d159de69b'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/EntityFramework6.PS2.psd1:
+    newFile: !uuid '7025eb3982a8526a78877deb348b2723c378392d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/EntityFramework6.PS2.psm1:
+    newFile: !uuid 'e0623c014a004792920de785ba0394df031b6bc0'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/EntityFramework6.psd1:
+    newFile: !uuid '46502dd80261ee0b88a7d483d71125901d6f46d5'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/EntityFramework6.psm1:
+    newFile: !uuid 'af4c5b3a869ef81ffa3f7bc5d7523743a5b919c1'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/about_EntityFramework6.help.txt:
+    newFile: !uuid '0ba3d35fd9fa592a27fa0c52f721373259bc2db9'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/init.ps1:
+    newFile: !uuid '01e427a1f740abc76d9fd4c1dfa4fcaa69b5328d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/install.ps1:
+    newFile: !uuid 'e6cb9a6b2a7c2a5c16e7c94cbc9e18f2e3e53c8d'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40:
+    newFile: !uuid 'd8ccc71aff48b8bff9f39ea3a86ee51d3cfe4508'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/any:
+    newFile: !uuid '6a310776fd20f1e9b7d69e5f70218afab30d5988'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/any/ef6.exe:
+    newFile: !uuid '6d2adbb33d4f07abe84f30b93d4da39c734e82fb'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/any/ef6.pdb:
+    newFile: !uuid 'f37cebb9764c56602bad3a231afb04421b2d9c43'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/win-x86:
+    newFile: !uuid 'bcbe2587e00b706e606218391342bf86ea4eee9f'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/win-x86/ef6.exe:
+    newFile: !uuid '0085fa950d6308877ea35a9533d9e8161a33c927'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net40/win-x86/ef6.pdb:
+    newFile: !uuid 'f37cebb9764c56602bad3a231afb04421b2d9c43'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45:
+    newFile: !uuid '3aaf06aa3df06dfba284801a5d3dfc162aeb360b'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/any:
+    newFile: !uuid '40b6e7a2a1861be7b565951cf16fcbbfdada5684'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/any/ef6.exe:
+    newFile: !uuid 'dd8d37aacfc9d9067abaa417350a6a9a6224ba14'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/any/ef6.pdb:
+    newFile: !uuid '4d49f9092ca8add5cd51d802e11297d94c538a3b'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/win-x86:
+    newFile: !uuid '22be975a196309a8081d1f1a69a168609b4c83bc'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/win-x86/ef6.exe:
+    newFile: !uuid 'c3b44e05c310015bd996da21128fe1b4fabfa2a3'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/net45/win-x86/ef6.pdb:
+    newFile: !uuid '4d49f9092ca8add5cd51d802e11297d94c538a3b'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/netcoreapp3.0:
+    newFile: !uuid '9bc48a7dfb480c1dbdf35d2467a639df5a9d4cfd'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/netcoreapp3.0/any:
+    newFile: !uuid '4bfd2ec84aeaa964995e84bfca30d32ce41968cd'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/netcoreapp3.0/any/ef6.dll:
+    newFile: !uuid 'e820663ffb6f59cdd56af7b68c88068d346f8a7b'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/netcoreapp3.0/any/ef6.pdb:
+    newFile: !uuid 'ba8296bef6613bb88e01d303af151a51e2a59526'
+    oldFile: null
+  /DataInfoMangement/packages/EntityFramework.6.3.0/tools/netcoreapp3.0/any/ef6.runtimeconfig.json:
+    newFile: !uuid '50a69af971bdccc7556fb90631edad3fae275579'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0:
+    newFile: !uuid '573ab17ebb7cdb07ce8a0b5e4ab1655cb97cffc0'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/.signature.p7s:
+    newFile: !uuid '5d1ecedc556e6c54151f00fdd71d14737a484b45'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/Google.Protobuf.3.14.0.nupkg:
+    newFile: !uuid 'ef44b8853138ac3cdb41d993e7dd5a5fd674f0f0'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib:
+    newFile: !uuid 'ec2a0a818f07d3ed33372da6ba0180a607371203'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/net45:
+    newFile: !uuid '33371f60c4402823c17543cb5947255d3860ac62'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/net45/Google.Protobuf.dll:
+    newFile: !uuid '77b93c781dadd3867ff826331bc5abadcd461def'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/net45/Google.Protobuf.pdb:
+    newFile: !uuid 'ffc1b89a7b580fea9837893c9683375db7074e29'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/net45/Google.Protobuf.xml:
+    newFile: !uuid '725a319646969c39b4bf8d50cd0eb17913774169'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard1.1:
+    newFile: !uuid 'e76ef0a6e4a43ca8baaeeb769fccc4826255fb0a'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard1.1/Google.Protobuf.dll:
+    newFile: !uuid '0f647f0cf5cdd74b8ec1da9d9fdae896ba0fa0bc'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard1.1/Google.Protobuf.pdb:
+    newFile: !uuid '4e05b315f901409f30dafd672e6d1f5819cae214'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard1.1/Google.Protobuf.xml:
+    newFile: !uuid '725a319646969c39b4bf8d50cd0eb17913774169'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard2.0:
+    newFile: !uuid '9c04f6c8301363b13ce67a5dd2dc2f619dcf28b8'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard2.0/Google.Protobuf.dll:
+    newFile: !uuid '4f9473fbfb124a15f7ff7c7aa7b4db207fece39c'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard2.0/Google.Protobuf.pdb:
+    newFile: !uuid '4e26683724ab105e7e816756fbc7b50c84962e88'
+    oldFile: null
+  /DataInfoMangement/packages/Google.Protobuf.3.14.0/lib/netstandard2.0/Google.Protobuf.xml:
+    newFile: !uuid '725a319646969c39b4bf8d50cd0eb17913774169'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11:
+    newFile: !uuid '5d7403e59dec8f1e8483beb7cf2ca821938efc9c'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/.signature.p7s:
+    newFile: !uuid '97a4e129090296fbfca2c69bf138d95f12dc0b49'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/K4os.Compression.LZ4.1.1.11.nupkg:
+    newFile: !uuid '9e9f5925c478cb74ce5998dc9a577a715a567745'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib:
+    newFile: !uuid '5aa2bd43d2404e20ddbb7611498937eecbb93eae'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net45:
+    newFile: !uuid 'd61e9e82c373d71a8a9be18e79548b019ae4a3a9'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net45/K4os.Compression.LZ4.dll:
+    newFile: !uuid 'aea8e94f83e5dd45c9e7ad03e1649cd8182b9bcb'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net45/K4os.Compression.LZ4.xml:
+    newFile: !uuid '5e8e85bf424be66ea06d8d44100a5b0329736494'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net46:
+    newFile: !uuid '726b9b93d04b47faae0a8a164d62f6befc6bd2e9'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net46/K4os.Compression.LZ4.dll:
+    newFile: !uuid 'ea7a3253314f43040ad21b94591b726586cd1f1c'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/net46/K4os.Compression.LZ4.xml:
+    newFile: !uuid '5e8e85bf424be66ea06d8d44100a5b0329736494'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard1.6:
+    newFile: !uuid '6b768bb6dd8fc61172cc60f46d538c295b6adc29'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.dll:
+    newFile: !uuid '507fa7a4d124f152987cf4b7b7a1ff3e66ea2168'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.xml:
+    newFile: !uuid '5e8e85bf424be66ea06d8d44100a5b0329736494'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard2.0:
+    newFile: !uuid '4f04aaf15bab0fc1a26347ca6a4b96a85e0f8833'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.dll:
+    newFile: !uuid '7703f3d4d87a0fe11f5bd3c3735b21006933f360'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.xml:
+    newFile: !uuid '5e8e85bf424be66ea06d8d44100a5b0329736494'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11:
+    newFile: !uuid '7c8441039adfafa63937fdfde1b3bdc6ca282d2a'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/.signature.p7s:
+    newFile: !uuid 'f8341afa182828ca3cdfc06fed014c0dac172755'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/K4os.Compression.LZ4.Streams.1.1.11.nupkg:
+    newFile: !uuid '102d853414d60ee53f7ac5718a2c0fb9c69dbcb7'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib:
+    newFile: !uuid 'ba8b0931f080872738c84d9fa393759922f87821'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net45:
+    newFile: !uuid '53aec57673284f64030d3cdc68ecdf848c547671'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net45/K4os.Compression.LZ4.Streams.dll:
+    newFile: !uuid '28695cf22a59e11030f5f7cb5b699fb044424e05'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net45/K4os.Compression.LZ4.Streams.xml:
+    newFile: !uuid '4a48ae1fe6736910a9993c446cb696ee92d0cbfc'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net46:
+    newFile: !uuid 'b300305e180d1b3d40449ce6e4e3bc2b08eea078'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net46/K4os.Compression.LZ4.Streams.dll:
+    newFile: !uuid '4c68abb6b8c235f26d952b9fca3a572ecd882ccf'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net46/K4os.Compression.LZ4.Streams.xml:
+    newFile: !uuid '4a48ae1fe6736910a9993c446cb696ee92d0cbfc'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard1.6:
+    newFile: !uuid '82aba60cda1c5656d998e77a82eb39160a70a220'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.Streams.dll:
+    newFile: !uuid '18aa64365d15a82b9251c45819ad6abf0f7cfa73'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.Streams.xml:
+    newFile: !uuid 'dfc1df530e7729f936dafd8614153c73daf74baa'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard2.0:
+    newFile: !uuid '8599aed861cd5676a1f45e607bbf0fdb932a8995'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll:
+    newFile: !uuid '7b9b44af9933e712310dde486013e8b636ea0d1c'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.Streams.xml:
+    newFile: !uuid '4a48ae1fe6736910a9993c446cb696ee92d0cbfc'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6:
+    newFile: !uuid 'a078438f98309b6ff804a76f773e9ed181559bcd'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/.signature.p7s:
+    newFile: !uuid '18a20f946a7264e701073eab4f628d661fc3c556'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/K4os.Hash.xxHash.1.0.6.nupkg:
+    newFile: !uuid '0c0a97700424d96e696cc6c16a29d9dd195a06a2'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib:
+    newFile: !uuid 'b6d0be622d0e11d4843fb9e4920b73c8177e1099'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net45:
+    newFile: !uuid '9a5e3ed4e7075b159a78f404cc50c59c88ab53a8'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net45/K4os.Hash.xxHash.dll:
+    newFile: !uuid 'ae6b96c029b2cfa875a0855494217a7c4a79810b'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net45/K4os.Hash.xxHash.xml:
+    newFile: !uuid '0bcd49ca00c9fed1505ebd8e7f1feb1840240e0e'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net46:
+    newFile: !uuid '3b209383d4f1e659f11458d2104f381eb0ff00c1'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net46/K4os.Hash.xxHash.dll:
+    newFile: !uuid 'b4cb8d940ec1237f00844a6365238f76c7ab95a4'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/net46/K4os.Hash.xxHash.xml:
+    newFile: !uuid '0bcd49ca00c9fed1505ebd8e7f1feb1840240e0e'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard1.6:
+    newFile: !uuid '4781a52ec70e239025cef9fa7fd441878a479854'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard1.6/K4os.Hash.xxHash.dll:
+    newFile: !uuid '094981c21551c2b54ffee1a44bbf3d7219fa2650'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard1.6/K4os.Hash.xxHash.xml:
+    newFile: !uuid '2a48a37abe5eaabad6d1398a4254c7fab33be867'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard2.0:
+    newFile: !uuid 'e15b1ce94af1ace11d5833aee6941a34244f7413'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard2.0/K4os.Hash.xxHash.dll:
+    newFile: !uuid '4179a29782be385ab71a5d45f3d16cf85efc61bf'
+    oldFile: null
+  /DataInfoMangement/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard2.0/K4os.Hash.xxHash.xml:
+    newFile: !uuid '0bcd49ca00c9fed1505ebd8e7f1feb1840240e0e'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6:
+    newFile: !uuid '55f9d646aa586593985b7be7dcf6dcac8f766d4f'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/.signature.p7s:
+    newFile: !uuid 'c4bd55733cc71dab33111094ca9e1b51d20173ac'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/Icon.png:
+    newFile: !uuid 'a0f1fdbf4d5eae0e561018cccee74f6a454cdb9c'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/Microsoft.Data.Sqlite.Core.5.0.6.nupkg:
+    newFile: !uuid '1937c9f7d8f5a651174325458a9afab8987f7ef3'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/lib:
+    newFile: !uuid 'cd733f3421f8661754166fe3e50963de5ca2cce7'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/lib/netstandard2.0:
+    newFile: !uuid '38aa49aa67101c687345a23b94612ae63625dbc3'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/lib/netstandard2.0/Microsoft.Data.Sqlite.dll:
+    newFile: !uuid '0e49052fb5352468a8e67928b1f1c39f712d16d6'
+    oldFile: null
+  /DataInfoMangement/packages/Microsoft.Data.Sqlite.Core.5.0.6/lib/netstandard2.0/Microsoft.Data.Sqlite.xml:
+    newFile: !uuid '8932d32f8f570104bd23b518b99d9e9e70bcbee9'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25:
+    newFile: !uuid 'e6c73ebcceb4f4a0a6c3dbbd4b51edc5c3032ae4'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/.signature.p7s:
+    newFile: !uuid 'ae20fb0d583ec6208afa87b3aa4a7e8b5e188616'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/MySql.Data.8.0.25.nupkg:
+    newFile: !uuid 'cbbaad7d12c46f2a9e9869f8248d1d3d38cbb2c7'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib:
+    newFile: !uuid 'daededf75cf66f1b1662e0717a50145d6c90380d'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net452:
+    newFile: !uuid '07b252e12f22455d4f8470dd03aeddeded761e5f'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net452/MySql.Data.dll:
+    newFile: !uuid '10eb79b9468c3c8ae1a929b793f5c36517cc192e'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net452/MySql.Data.xml:
+    newFile: !uuid '6bbc17b7281753f4b5425fed7c3474f9e8f08955'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net452/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net452/Zstandard.Net.dll:
+    newFile: !uuid '83934d141fc5760b75715bab49aaded7a80d4aa3'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net48:
+    newFile: !uuid '78ca9f9789846b4ab3280b1f7fc316349cb042b2'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net48/MySql.Data.dll:
+    newFile: !uuid '36a7f31d9551dfdf8253f86c0006a6490e813433'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net48/MySql.Data.xml:
+    newFile: !uuid '6bbc17b7281753f4b5425fed7c3474f9e8f08955'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net48/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net48/Zstandard.Net.dll:
+    newFile: !uuid '83934d141fc5760b75715bab49aaded7a80d4aa3'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net5.0:
+    newFile: !uuid 'e48a2f67a958bcb7b790ab294a0dfc79665a3873'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net5.0/MySql.Data.dll:
+    newFile: !uuid 'fa7ec75694a5b8f94f597e1858580c9456eeed34'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net5.0/MySql.Data.xml:
+    newFile: !uuid 'cb0140eba18eb45a5cb6a93c4287c0de78155cc9'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net5.0/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/net5.0/Zstandard.Net.dll:
+    newFile: !uuid 'b38d200707d5201449902641e930687dec71451d'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.0:
+    newFile: !uuid '3c58ad5d13ce1cc9415c3c32d9036bb1c9eb90b5'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.0/MySql.Data.dll:
+    newFile: !uuid 'd0db7a64868099156bf330028c2f398dbf0f696e'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.0/MySql.Data.xml:
+    newFile: !uuid 'cb0140eba18eb45a5cb6a93c4287c0de78155cc9'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.0/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.0/Zstandard.Net.dll:
+    newFile: !uuid 'b38d200707d5201449902641e930687dec71451d'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.1:
+    newFile: !uuid 'cf3c6167d30a2019c1494bac83f325c96b67fa93'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.1/MySql.Data.dll:
+    newFile: !uuid 'eeac037aa9da31b0eec3714a1e9b9136e7b01a33'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.1/MySql.Data.xml:
+    newFile: !uuid 'cb0140eba18eb45a5cb6a93c4287c0de78155cc9'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.1/Ubiety.Dns.Core.dll:
+    newFile: !uuid 'b10ecf26360092f35d4e53b0c75b208bd2ebb7cf'
+    oldFile: null
+  /DataInfoMangement/packages/MySql.Data.8.0.25/lib/netstandard2.1/Zstandard.Net.dll:
+    newFile: !uuid 'b38d200707d5201449902641e930687dec71451d'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4:
+    newFile: !uuid '70c8875588b18d264d4502ffd5968e71ff340405'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4/.signature.p7s:
+    newFile: !uuid '32020930294ab9a17662e71d63343b478e9700d5'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4/SQLitePCLRaw.core.2.0.4.nupkg:
+    newFile: !uuid '844d0bd49b8c4142590fc2ffd7aea8d3298c0c4d'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4/lib:
+    newFile: !uuid '8a633637873f3ad8dbbac4cb46e4ea26f8afe4d8'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4/lib/netstandard2.0:
+    newFile: !uuid '45fb039fd44522d9700ab161a919b8cda09c3e32'
+    oldFile: null
+  /DataInfoMangement/packages/SQLitePCLRaw.core.2.0.4/lib/netstandard2.0/SQLitePCLRaw.core.dll:
+    newFile: !uuid 'd995f2741c3d0c50791309348c1ce94b1185b9c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1:
+    newFile: !uuid 'cab0feca2f0e13dd97dedda4fb1b9eeaddbdf096'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/.signature.p7s:
+    newFile: !uuid '1bf2285c394915a0f2b99f2fee704f64f0d62b92'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/LICENSE.TXT:
+    newFile: !uuid 'fa3121dfaf73735faa1de75487de977993c40d0b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/System.Buffers.4.5.1.nupkg:
+    newFile: !uuid 'f7ee6b2d7a8c43944a5a401755506b9a794449d2'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/THIRD-PARTY-NOTICES.TXT:
+    newFile: !uuid '207a2a734ad126b870401d2e8226ac9fee024423'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib:
+    newFile: !uuid 'c3fecc5e19ab54cf64b748d4aefa14b580c167dc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/net461:
+    newFile: !uuid '2fd6fabbe76a263090a7fe1d566bad896ae2e549'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.dll:
+    newFile: !uuid 'f2d83c51416e90dbc31154545b16df3b3f7a7909'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netcoreapp2.0:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netcoreapp2.0/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard1.1:
+    newFile: !uuid 'ec243b2cdfdd114ccd58a7d2e19253fa8164081a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.dll:
+    newFile: !uuid '14e5c532c72f0d9d82a5dfbe0cd6239d2a3d54f1'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard2.0:
+    newFile: !uuid 'f937e1af617952577d9520d2205218c1e0ab83ac'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.dll:
+    newFile: !uuid 'c0970c078522845d0ac9420f390fed5c29344d8c'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/uap10.0.16299:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/lib/uap10.0.16299/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref:
+    newFile: !uuid '10105825e27dbe598bd45c5ec8f70dbb6643280b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/net45:
+    newFile: !uuid 'b47e03f7678fc4c3d8245fb84728ee7573e43c93'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.dll:
+    newFile: !uuid '022667e83258c69abfbb2fbe8070ad347a4222d1'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netcoreapp2.0:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netcoreapp2.0/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard1.1:
+    newFile: !uuid 'c093bc580fa03dc17c2880c04b180daa67d76181'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.dll:
+    newFile: !uuid '9daa0566f265380cf3dd4532a442b0da6266688f'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard2.0:
+    newFile: !uuid 'cd320d0a5178ea4b4ed7573ffd38f43136d9a84e'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.dll:
+    newFile: !uuid 'a294e52ddf10eae77e2aeb0d52cfcfdfd917d355'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.xml:
+    newFile: !uuid '8a52c114ffeacb78b8a23c47d3998142f89d1bbc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/uap10.0.16299:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/ref/uap10.0.16299/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/useSharedDesignerContext.txt:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Buffers.4.5.1/version.txt:
+    newFile: !uuid '5626c872249ac89c045920424970062db8376229'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0:
+    newFile: !uuid 'c82fddefda745c1f74a8ce0417797680b2f448e9'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/.signature.p7s:
+    newFile: !uuid 'c9e843f537e91289a6072b2668ef00706188df68'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/System.Data.SQLite.EF6.1.0.113.0.nupkg:
+    newFile: !uuid '04f654c505dbb886ea7411c906086b27b4afc43c'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content:
+    newFile: !uuid '00abde0b5be1da293a4dccddab0ac7278b7ef6ad'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net40:
+    newFile: !uuid 'c31af5dfc97e573529ddaf30a9a7c31a97c19421'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net40/app.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net40/app.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net40/web.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net40/web.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net45:
+    newFile: !uuid 'c31af5dfc97e573529ddaf30a9a7c31a97c19421'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net45/app.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net45/app.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net45/web.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net45/web.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net451:
+    newFile: !uuid 'c31af5dfc97e573529ddaf30a9a7c31a97c19421'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net451/app.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net451/app.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net451/web.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net451/web.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net46:
+    newFile: !uuid 'c31af5dfc97e573529ddaf30a9a7c31a97c19421'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net46/app.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net46/app.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net46/web.config.install.xdt:
+    newFile: !uuid '9dd5fa60b4f4c06e6811d92ad51a37ba427aac82'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/content/net46/web.config.transform:
+    newFile: !uuid '6def177c35ce89d2bf43067a57b231e25f079a59'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib:
+    newFile: !uuid '58f788b2799959fcde65dd5e50a4f2c96c0c121a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net40:
+    newFile: !uuid '6d509525b645cae54487d438d151f4560a28bfb2'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net40/System.Data.SQLite.EF6.dll:
+    newFile: !uuid '07e2f17b06fce12c53bac81f83e1d129f49cafaf'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net45:
+    newFile: !uuid '7ca53b9f0dbbee19962ae7327e25db6d73bac5b9'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net45/System.Data.SQLite.EF6.dll:
+    newFile: !uuid '6dd8475a6ce230bff35fa9e434ae852c294b8655'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net451:
+    newFile: !uuid '2093f266ea71ead59c5bd85cbfd3c0cfaa5927a2'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net451/System.Data.SQLite.EF6.dll:
+    newFile: !uuid '92a3cf0cb421ad52ce0b669d42f59f4aab327a8f'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net46:
+    newFile: !uuid '4c29b6ba51d576ce202a36491e644b62e53c123a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/net46/System.Data.SQLite.EF6.dll:
+    newFile: !uuid 'eb4fdd917edfad835ae0f6694c79d445e5513d3a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/netstandard2.1:
+    newFile: !uuid 'faefccba7172cedbaadb7f7323742af777322974'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/lib/netstandard2.1/System.Data.SQLite.EF6.dll:
+    newFile: !uuid 'a2ca4d8e81af3219d5755f9bbc323b174518a421'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools:
+    newFile: !uuid '98105107d7d77e53fe824d7646219ddf6a25988e'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net40:
+    newFile: !uuid '01c0a5c4892184349a9371ccad00e5b5e084c160'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net40/install.ps1:
+    newFile: !uuid '698071a13bf1d97c55e558a0eb8ec7a3e3e1d397'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net45:
+    newFile: !uuid '01c0a5c4892184349a9371ccad00e5b5e084c160'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net45/install.ps1:
+    newFile: !uuid '698071a13bf1d97c55e558a0eb8ec7a3e3e1d397'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net451:
+    newFile: !uuid '01c0a5c4892184349a9371ccad00e5b5e084c160'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net451/install.ps1:
+    newFile: !uuid '698071a13bf1d97c55e558a0eb8ec7a3e3e1d397'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net46:
+    newFile: !uuid '01c0a5c4892184349a9371ccad00e5b5e084c160'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.EF6.1.0.113.0/tools/net46/install.ps1:
+    newFile: !uuid '698071a13bf1d97c55e558a0eb8ec7a3e3e1d397'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0:
+    newFile: !uuid '2eca8f75c83bfe9dc695da75fd1e351f77d0e331'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/.signature.p7s:
+    newFile: !uuid 'e3181c9311ff90e92096646a7214dcd964f72d27'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/System.Data.SQLite.Linq.1.0.113.0.nupkg:
+    newFile: !uuid '8337f94e4fe99c87689af5690ff79a1a685bd3e2'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content:
+    newFile: !uuid '6fefb72548db70d31149ab75886d1ae0755c3dfc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net20:
+    newFile: !uuid 'c43a40c078d3c40f721f52f6ced7c9702a6c1834'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net20/app.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net20/web.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net40:
+    newFile: !uuid 'c43a40c078d3c40f721f52f6ced7c9702a6c1834'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net40/app.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net40/web.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net45:
+    newFile: !uuid 'c43a40c078d3c40f721f52f6ced7c9702a6c1834'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net45/app.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net45/web.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net451:
+    newFile: !uuid 'c43a40c078d3c40f721f52f6ced7c9702a6c1834'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net451/app.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net451/web.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net46:
+    newFile: !uuid 'c43a40c078d3c40f721f52f6ced7c9702a6c1834'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net46/app.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/content/net46/web.config.transform:
+    newFile: !uuid '0aa4aebd836c98b929c2055339ebe0d088cbcd04'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib:
+    newFile: !uuid 'a0f51ac1cee09db93ccf3c5f66373dd8452e7969'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net20:
+    newFile: !uuid 'd77ee1ba8e6c448ac9eefa09fb2b675f2ac86434'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net20/System.Data.SQLite.Linq.dll:
+    newFile: !uuid 'fb5d919a9363be29beac3a847cecb420d2c903ba'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net40:
+    newFile: !uuid '756741c935ab046d163a524d2fa5dd324f5050b7'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net40/System.Data.SQLite.Linq.dll:
+    newFile: !uuid '102034e9902ef88e6028e219ad47569df052471d'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net45:
+    newFile: !uuid 'ab75f9855458363b88d95cc79c77803263e38425'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net45/System.Data.SQLite.Linq.dll:
+    newFile: !uuid '54b727891ad8188b50ea1c3717db0d47a35656cb'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net451:
+    newFile: !uuid 'b3f53db2c570c5b423baac3e35780addd094a0fd'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net451/System.Data.SQLite.Linq.dll:
+    newFile: !uuid 'cb2da5f945b78875342f30ca1b47ec0437a94579'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net46:
+    newFile: !uuid '0cdd6367382397cc6d550c4ef656b9e096f4d0b1'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.Linq.1.0.113.0/lib/net46/System.Data.SQLite.Linq.dll:
+    newFile: !uuid '7969a3f3dd377018ee040158fca06855519fe822'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0:
+    newFile: !uuid '401e701d99cb705f691153dba9e4165a4b8ba5b3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/.signature.p7s:
+    newFile: !uuid 'd01c6c9956527d6eaf616b8710b41d1499ffdefc'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/System.Data.SQLite.x64.1.0.113.0.nupkg:
+    newFile: !uuid '2ac59b5fde2d56198e5b44628e16573d6f477318'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib:
+    newFile: !uuid '787564a02227c99d90d658ef973020e31136f2e1'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net20:
+    newFile: !uuid '7b01df9704eba0c8f01ab910f22c307a1394e42f'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net20/System.Data.SQLite.dll:
+    newFile: !uuid 'a72251612e50f6f5b92be14ddf47eb647f90ca8b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net20/System.Data.SQLite.xml:
+    newFile: !uuid 'b03a80c944dbdf8643e456818447316220a71a6f'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net40:
+    newFile: !uuid '16bad976fbe869c804f4b90e1a0285f910485ad6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net40/System.Data.SQLite.dll:
+    newFile: !uuid '03df024d724df25fbf045506ce040c200424bb98'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net40/System.Data.SQLite.xml:
+    newFile: !uuid '11350eac1eb10e83b63ddb1c794aee57aa595e10'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net45:
+    newFile: !uuid '5c450a323bc6a07c006a30b67fd94a79825aa1f5'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net45/System.Data.SQLite.dll:
+    newFile: !uuid 'cece863ce2cbecc5264e21d77e69a39cec1337f2'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net45/System.Data.SQLite.xml:
+    newFile: !uuid '11350eac1eb10e83b63ddb1c794aee57aa595e10'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net451:
+    newFile: !uuid '6f5e9f3e350cef78cbe31fd02cbdf20c8565b330'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net451/System.Data.SQLite.dll:
+    newFile: !uuid '51e1e269d1c2dff38dea4aac92caa585e7735bc0'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net451/System.Data.SQLite.xml:
+    newFile: !uuid '11350eac1eb10e83b63ddb1c794aee57aa595e10'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net46:
+    newFile: !uuid 'b76a35ac4235e568dee69425dd58ca80cd2b5d50'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net46/System.Data.SQLite.dll:
+    newFile: !uuid 'fd929138d9e8081416a5a76153905df101ada76e'
+    oldFile: null
+  /DataInfoMangement/packages/System.Data.SQLite.x64.1.0.113.0/lib/net46/System.Data.SQLite.xml:
+    newFile: !uuid '19bfd33bf24c045e72c88db4644c924c6f4aa03c'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3:
+    newFile: !uuid 'd61ed69263fa5bafc72f28ee98f861ff17d2f1eb'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/.signature.p7s:
+    newFile: !uuid 'd9e4415422873cdb263b43f174c423258cdc41eb'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/LICENSE.TXT:
+    newFile: !uuid 'fa3121dfaf73735faa1de75487de977993c40d0b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/System.Memory.4.5.3.nupkg:
+    newFile: !uuid '5fa15502c47f9d14590e3db1ce1b8370b4d1ad95'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/THIRD-PARTY-NOTICES.TXT:
+    newFile: !uuid '207a2a734ad126b870401d2e8226ac9fee024423'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib:
+    newFile: !uuid '688221ce303947df4cf9be12132c8abc0d064188'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netcoreapp2.1:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netcoreapp2.1/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard1.1:
+    newFile: !uuid '2321e6fd7d5b6045d09d4ca57da63af2e7b8ea5a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.dll:
+    newFile: !uuid '342368065f3bb9a71a10f0a29279d8d7ce4a75ae'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.xml:
+    newFile: !uuid 'de9af8989be4d61aa70394413ed2710a0cc302d9'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard2.0:
+    newFile: !uuid 'd02795b8a1ed87e379660353421eacc8a78f0c7c'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll:
+    newFile: !uuid 'bdfc501e9647719549793297acb072d33067d4e5'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.xml:
+    newFile: !uuid 'de9af8989be4d61aa70394413ed2710a0cc302d9'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/ref:
+    newFile: !uuid 'cc5da466ebbdedb7349aea5027d7e92262b9ef46'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/ref/netcoreapp2.1:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/ref/netcoreapp2.1/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/useSharedDesignerContext.txt:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Memory.4.5.3/version.txt:
+    newFile: !uuid '84098337995e7ae24c4067e27b3a5ae679bae7d7'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0:
+    newFile: !uuid '46ff3d44d62ada861572dc80dfd4ae619f2dff17'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/.signature.p7s:
+    newFile: !uuid '804a5d4539d8577faf287850ea9269ebb94cd3ce'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/LICENSE.TXT:
+    newFile: !uuid 'fa3121dfaf73735faa1de75487de977993c40d0b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/System.Numerics.Vectors.4.4.0.nupkg:
+    newFile: !uuid 'd1faf304c47ea216e93ee0e04c0276592ded0f9d'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/THIRD-PARTY-NOTICES.TXT:
+    newFile: !uuid '111123cd92bb805cb0d7522c9c559ac32c019174'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib:
+    newFile: !uuid '8e02ec6ca4f0a3c9609e6c9fe5df299e5326c319'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/net46:
+    newFile: !uuid '438cc058f9181cdd7156bd8aa1982f6504ca6849'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll:
+    newFile: !uuid 'ce46d5be85cdee1a3c0ef5bc22c8e1772d0d0d98'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0:
+    newFile: !uuid '75c75a439009adb304d1e4833717f64c08671045'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll:
+    newFile: !uuid '46308fdb3acf521d69320d5d9f7436fafb898d63'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0:
+    newFile: !uuid '6215da7de2811cc98c266c58a5e87f2a18fd3b8e'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll:
+    newFile: !uuid 'a808165accf4b28833d22169931d4c879defd96d'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81:
+    newFile: !uuid '75c75a439009adb304d1e4833717f64c08671045'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll:
+    newFile: !uuid '46308fdb3acf521d69320d5d9f7436fafb898d63'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref:
+    newFile: !uuid '0594cfcb903aea6a1ffa24671f57c0680787bb1b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/net46:
+    newFile: !uuid 'c51d82f9917a5b156274edb8de7bb21776dc1c96'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll:
+    newFile: !uuid 'e91f855a1235992af7c79b3dd157a2bf4133db61'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0:
+    newFile: !uuid 'a57eab0b17c17b60ed21aafbf48e9857537a28d6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll:
+    newFile: !uuid 'd174da04775207dbbcc5c6959f409cfc37ae7855'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0:
+    newFile: !uuid 'de9e3f22ea73f503e8aa9072a12d289d9b88dc1e'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll:
+    newFile: !uuid 'ba0aa0cf6c56a5edd990cca24ab6588cb4d49269'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.xml:
+    newFile: !uuid 'b8c2f940c801c6e8df0f85b8e6c6368725b8f3c3'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10:
+    newFile: !uuid '1923e2c3c252e05eabf5a1c6d377b375d19fe1c6'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10/_._:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Numerics.Vectors.4.4.0/version.txt:
+    newFile: !uuid 'f35e2edd3f3a9daec5a730b3a3382b7ded9ceeaf'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2:
+    newFile: !uuid 'ef87dba2842545997cf0bba4494fe5a310eaf3f0'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/.signature.p7s:
+    newFile: !uuid 'a7fbb7345d4637e6451f79984453106e7600fc77'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/LICENSE.TXT:
+    newFile: !uuid 'fa3121dfaf73735faa1de75487de977993c40d0b'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg
+  : newFile: !uuid '4f464e12ed6889d99bc849a269dd8a3f547a81f5'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/THIRD-PARTY-NOTICES.TXT:
+    newFile: !uuid '207a2a734ad126b870401d2e8226ac9fee024423'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib:
+    newFile: !uuid '1cef06057acc9e165494bbfc9f4a2442e099fc3b'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0:
+    newFile: !uuid '936310d0b283544a0d92e66224fd43d6bdc2915d'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll
+  : newFile: !uuid '67d56efbbd0dbc4145ca87da5700568680df9674'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml
+  : newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0:
+    newFile: !uuid '55dcb5151609b3bd6c96f1dbeee6d793041cc917'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+  : newFile: !uuid 'd99e9f9eb78189ae1150123aeb5555214b493989'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+  : newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0:
+    newFile: !uuid 'e21e5bc986d001c8b71c0ebd6c22755528fdd0ab'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+  : newFile: !uuid '3156239266db9cceede249731f00c3822e479a1f'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+  : newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref:
+    newFile: !uuid 'd2b6bdb1a3ce5f2785f3ec0562065f009fe6a39a'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0:
+    newFile: !uuid 'de73cb58284a6c2d918424e3800a17d8b665e09c'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+  : newFile: !uuid '19ec356e3b867c8ff9ab2b09364ddfce319d44d3'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+  : newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0:
+    newFile: !uuid '5c3b974fd786091cde7798cce6e4910ebfc87443'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+  : newFile: !uuid '9d996136792bee837104d1ab842731395ba66ee8'
+    oldFile: null
+  ? /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+  : newFile: !uuid '84c02132f371bd9fa280dc8a3a58ec82db31bea4'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/useSharedDesignerContext.txt:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /DataInfoMangement/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/version.txt:
+    newFile: !uuid '7558087f901d1f580c6268dd945a3e35ed043980'
+    oldFile: null
+  /software:
+    newFile: !uuid '3ae48a2e17e1cf1c6759efdff375899606e35243'
+    oldFile: null
+  /software/DataInfoMangement.exe:
+    newFile: !uuid 'b6f26f1992de21c9ac43d0786aeefa4799b42787'
+    oldFile: null
+  /software/MySql.Data.dll:
+    newFile: !uuid '10eb79b9468c3c8ae1a929b793f5c36517cc192e'
+    oldFile: null
+gitCommitId: !uuid 'd65bdd9bfe72183715ddf0ab4caed8552589715e'
 renames: {
   }
-revisionId: 1
+revisionId: 2
