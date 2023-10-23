@@ -1,0 +1,11 @@
+!revision
+branches: {
+  }
+fileChange:
+  /.gitignore:
+    newFile: !uuid '5d947ca8879f8a9072fe485c566204e3c2929e80'
+    oldFile: null
+gitCommitId: !uuid 'a777c6c6a4b5173b077cd7ac464c2112340517fe'
+renames: {
+  }
+revisionId: 1
